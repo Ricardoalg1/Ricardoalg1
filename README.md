@@ -76,7 +76,7 @@ Aplicación de chat en tiempo real con canales y usuarios autenticados.
 ---
 
 <p align="center">
-  <i>“El código limpio no es el más corto, es el más claro.”</i>
+  <i>> 💡 *“La simplicidad en el código no es falta de complejidad, es el resultado de entenderla.”*</i>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=120&section=footer)
