@@ -76,7 +76,7 @@ Aplicación de chat en tiempo real con canales y usuarios autenticados.
 ## 🌐 Contacto
 
 📧 **[ricardo.algarin@email.com](mailto:soporte@ricardoalgarin.dev)**  
-💼 [LinkedIn](https://linkedin.com/in/ricardo-algarin)  
+💼 [LinkedIn](www.linkedin.com/in/ricardo-algarin-alvarez-1366b394)  
 🌎 [Portafolio Web](https://ricardo-algarin.dev)
 
 ---
