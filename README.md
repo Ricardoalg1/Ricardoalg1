@@ -14,7 +14,7 @@ Me especializo en el desarrollo con **Next.js**, **Node.js**, **Prisma** y **Pos
 
 - ⚙️ Experiencia en **JavaScript**, **TypeScript**, **Next.js**, **Express** y **React**  
 - 🧩 Arquitectura de **APIs REST**, autenticación con **JWT** y despliegues en **Vercel / Render / AWS**  
-- ☁️ Experiencia con **Supabase**, **Prisma ORM** y **Docker**  
+- ☁️ Despliegue de microservicios con **Azure Kubernetes Service (AKS)**, **AWS ECS / EKS**  y **Docker**  
 - 🚀 Enfoque en **código limpio, escalabilidad y buenas prácticas**
 
 ---
@@ -32,6 +32,17 @@ Me especializo en el desarrollo con **Next.js**, **Node.js**, **Prisma** y **Pos
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+- **Azure Kubernetes Service (AKS)** y **AWS ECS/EKS** para orquestación y despliegue escalable de microservicios  
+- 🐳 **Docker** para contenerización de aplicaciones **Next.js** y **Node.js**, garantizando entornos consistentes  
+- **GitHub Actions** para CI/CD automatizado y versionado controlado  
+- **Terraform** para infraestructura como código (IaC)  
+- **Azure Monitor**, **AWS CloudWatch** y **Grafana** para observabilidad y métricas  
+- Integración de **APIs externas**, webhooks y automatizaciones con seguridad de entornos
 
 ---
 
