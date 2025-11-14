@@ -130,12 +130,6 @@ Aplicación de chat en tiempo real con canales y usuarios autenticados.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoalgarin&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
 ---
 
 ## 🌐 Contacto
