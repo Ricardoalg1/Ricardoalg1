@@ -134,9 +134,8 @@ Aplicación de chat en tiempo real con canales y usuarios autenticados.
 
 ## 🌐 Contacto
 
-📧 **soporte@ricardo-algarin.dev**  
+📧 **info@ricardoalgarin.dev**  
 💼 [LinkedIn](www.linkedin.com/in/ricardo-algarin-alvarez-1366b394)  
-🌎 [Portafolio Web](https://ricardo-algarin.dev)
 
 ---
 
